@@ -24,7 +24,7 @@ Java에 대한 기초와 개발의 큰 흐름을 파악할 수 있었다.
 
 ## Tech Stack
 
- - <img src="https://img.shields.io/badge/Java-8-007396?style=flat&logo=java&logoColor=white"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Java-8-007396?style=flat&logo=java&logoColor=white"/></a>&nbsp;
  - <img src="https://img.shields.io/badge/Tomcat-7.0.55-F8DC75?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/></a>&nbsp;
  - <img src="https://img.shields.io/badge/jQuery-2.1.4-0769AD?style=flat&logo=jquery&logoColor=F8DC75"/></a>&nbsp;
  - <img src="https://img.shields.io/badge/Oracle-10g-F80000?style=flat&logo=Oracle&logoColor=F80000"/></a>&nbsp;
